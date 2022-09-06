@@ -20,6 +20,6 @@ When you deploy this app it will fail with this error log as the legacy `_middlw
 
 ### Fix
 
-Make sure to name your middlware file `middlware.ts`/`middleware.js` and it's in your root dir `/`/
+Make sure to name your middlware file `middlware.ts`/`middleware.js` and it's in your root dir `/`
 
 Docs https://nextjs.org/docs/messages/middleware-upgrade-guide
